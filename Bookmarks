@@ -1,0 +1,49 @@
+{
+   "checksum": "f722c7ab2ab7d7814fe0c0197afdd766",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13118144021287933",
+               "id": "6",
+               "name": "最强 Android Studio 使用小技巧和快捷键 - Seachal - 博客园",
+               "type": "url",
+               "url": "http://www.cnblogs.com/Seachal/p/5591600.html"
+            }, {
+               "date_added": "13118144119028053",
+               "id": "8",
+               "name": "Android studio 使用技巧以及常用设置",
+               "type": "url",
+               "url": "http://m.blog.csdn.net/article/details?id=51242325"
+            } ],
+            "date_added": "13118144057224892",
+            "date_modified": "13118144119028053",
+            "id": "7",
+            "name": "Android调试与debug",
+            "type": "folder"
+         } ],
+         "date_added": "13118144009744093",
+         "date_modified": "13118144021287933",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13118144009744097",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13118144009744098",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
